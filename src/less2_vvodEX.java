@@ -14,7 +14,7 @@ public class less2_vvodEX {
 
         boolean booleanvalue = true;
         System.out.println(booleanvalue);
-// jgfkfff
+// jgfkfffrr
 
 
 
